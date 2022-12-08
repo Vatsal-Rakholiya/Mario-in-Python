@@ -1,6 +1,6 @@
 # Requirement
 * Python 3.7
-* Python-Pygame 1.9
+* pygame==2.1.3.dev8
 
 # How To Start Game
 $ python main.py
