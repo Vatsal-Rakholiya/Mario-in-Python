@@ -9,3 +9,7 @@ $ python main.py
 * use LEFT/RIGHT/DOWN key to control player
 * use key 'Space' to jump
 * use key 's' to shoot firewall or run
+
+# Demo
+
+https://github.com/Vatsal-Rakholiya/Mario-in-Python/blob/main/resources/demo/level_1_1.png
